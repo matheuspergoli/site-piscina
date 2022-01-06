@@ -1,0 +1,58 @@
+:root {
+    --bg-color: #F8EFEF;
+    --white: #FFFFFF;
+} 
+
+body {
+    background-color: var(--white);
+}
+
+#header {
+    height: 250px;
+    margin-bottom: 40px;
+    background-color: var(--white);
+}
+
+nav {
+    margin-bottom: 40px;
+}
+
+.nav-item {
+    border-radius: 3px;
+    transition-duration: 350ms;
+}
+
+.nav-item:hover {
+    color: black;
+    background-color: #c7ecee;
+}
+
+#logo {
+    height: 220px;
+}
+
+#main-image {
+    width: 100%;
+}
+
+#container-main-image {
+    padding: 0px;
+    margin-bottom: 10px;
+}
+
+#container-instalacao {
+    margin-top: 10px;
+}
+
+#container-info {
+    background-color: var(--bg-color);
+}
+
+.col-images {
+    background-size: cover;
+    width: 100%;
+}
+
+#h1-instalacao {
+    color: var(--bs-blue);
+}
