@@ -54,5 +54,6 @@ nav {
 }
 
 #h1-instalacao {
+    margin-bottom: 20px;
     color: var(--bs-blue);
 }
