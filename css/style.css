@@ -57,3 +57,22 @@ nav {
     margin-bottom: 20px;
     color: var(--bs-blue);
 }
+
+#container-info-2 {
+    background-color: var(--bs-blue);
+}
+
+#img-info-2 {
+    width: 100%;
+}
+
+#h1-info-2 {
+    margin-top: 15px;
+    font-weight: bold;
+    color: var(--white);
+    background-color: gray;
+}
+
+#p1-info-2 {
+    color: var(--white);
+}
