@@ -74,6 +74,10 @@ body {
     padding: 0px;
 }
 
+#container-costumer {
+    margin-top: 30px;
+}
+
 #video-1 {
     width: 100%;
 }
