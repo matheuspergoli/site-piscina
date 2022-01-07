@@ -17,7 +17,7 @@ body {
 }
 
 .nav-item:hover {
-    background-color: #353b48;
+    background-color: #0583F2;
 }
 
 #logo {
@@ -87,15 +87,16 @@ body {
 .my-link {
     margin: 15px;
     color: black;
-    font-size: 12px;
+    font-size: 11px;
     text-decoration: none;
 }
 
 footer {
     margin-top: 100px;
-    background-color: #192a56;
+    background-color: #0A6AA6;
 }
 
 #email {
+    color: white;
     text-decoration: none;
 }
