@@ -89,3 +89,19 @@ body {
 .img-serasa {
     width: 100%;
 }
+
+.my-link {
+    margin: 15px;
+    color: black;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+footer {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#email {
+    text-decoration: none;
+}
