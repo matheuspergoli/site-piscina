@@ -76,3 +76,7 @@ nav {
 #p1-info-2 {
     color: var(--white);
 }
+
+#container-info-3 {
+    padding: 0px;
+}
