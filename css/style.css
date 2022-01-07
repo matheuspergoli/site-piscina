@@ -4,17 +4,12 @@
 } 
 
 body {
-    background-color: var(--white);
+    background-color: var(--bg-color);
 }
 
 #header {
-    height: 250px;
-    margin-bottom: 40px;
+    height: 260px;
     background-color: var(--white);
-}
-
-nav {
-    margin-bottom: 40px;
 }
 
 .nav-item {
@@ -37,15 +32,14 @@ nav {
 
 #container-main-image {
     padding: 0px;
-    margin-bottom: 10px;
 }
 
 #container-instalacao {
-    margin-top: 10px;
+    background-color: var(--white);
 }
 
 #container-info {
-    background-color: var(--bg-color);
+    background-color: #FCF8F8;
 }
 
 .col-images {
