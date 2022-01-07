@@ -4,7 +4,7 @@
 } 
 
 body {
-    background-color: var(--bg-color);
+    background-color: #dcdde1;
 }
 
 #header {
@@ -17,8 +17,7 @@ body {
 }
 
 .nav-item:hover {
-    color: black;
-    background-color: #c7ecee;
+    background-color: #353b48;
 }
 
 #logo {
@@ -85,10 +84,6 @@ body {
     width: 100%;
 }
 
-.img-serasa {
-    width: 100%;
-}
-
 .my-link {
     margin: 15px;
     color: black;
@@ -98,7 +93,7 @@ body {
 
 footer {
     margin-top: 100px;
-    margin-bottom: 100px;
+    background-color: #192a56;
 }
 
 #email {
