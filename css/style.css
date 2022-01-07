@@ -49,11 +49,11 @@ body {
 
 #h1-instalacao {
     margin-bottom: 20px;
-    color: var(--bs-blue);
+    color: #070881;
 }
 
 #container-info-2 {
-    background-color: var(--bs-blue);
+    background-color: #0962AD;
 }
 
 #img-info-2 {
@@ -64,7 +64,6 @@ body {
     margin-top: 15px;
     font-weight: bold;
     color: var(--white);
-    background-color: #4834d4;
 }
 
 #p1-info-2 {
