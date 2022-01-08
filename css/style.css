@@ -11,6 +11,11 @@ body {
     height: 260px;
 }
 
+nav {
+    color: white;
+    background-color: #0962AD;
+}
+
 .nav-item {
     border-radius: 3px;
     transition-duration: 350ms;
@@ -47,7 +52,7 @@ body {
 
 #h1-instalacao {
     margin-bottom: 20px;
-    color: #070881;
+    color: #0962AD;
 }
 
 #container-info-2 {
@@ -93,7 +98,7 @@ body {
 
 footer {
     margin-top: 100px;
-    background-color: #0A6AA6;
+    background-color: #0962AD;
 }
 
 #email {
