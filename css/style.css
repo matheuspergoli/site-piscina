@@ -106,15 +106,6 @@ footer {
     text-decoration: none;
 }
 
-#container-carousel {
-    padding: 0px;
-}
-
-.img-slider {
-    width: 450px;
-    height: 450px;
-}
-
 /* WHATSAPP BUTTON */
 .whatsapp_float {
     position: fixed;
