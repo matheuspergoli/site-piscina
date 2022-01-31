@@ -142,7 +142,7 @@ footer {
 }
 
 /* SEGUNDA PÁGINA / QUEM SOMOS */
-#header-quem-somos {
+.header-quem-somos {
     color: white;
     font-size: clamp(2rem, 5vw, 4.5rem);
     background-image: linear-gradient(to left, transparent, #0D1FCE, transparent);
@@ -151,4 +151,11 @@ footer {
 #img-quem-somos {
     max-width: 100%;
     max-height: 100%;
+}
+
+/* TERCEIRA PÁGINA / SAIBA MAIS */
+.header-saiba-mais {
+    color: white;
+    font-size: clamp(2rem, 5vw, 4.5rem);
+    background-image: linear-gradient(to left, transparent, #0D1FCE, transparent)
 }
