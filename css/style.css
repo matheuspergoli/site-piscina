@@ -140,3 +140,15 @@ footer {
         font-size: 22px;
     }
 }
+
+/* SEGUNDA PÁGINA / QUEM SOMOS */
+#header-quem-somos {
+    color: white;
+    font-size: clamp(2rem, 5vw, 4.5rem);
+    background-image: linear-gradient(to left, transparent, #0D1FCE, transparent);
+}
+
+#img-quem-somos {
+    max-width: 100%;
+    max-height: 100%;
+}
